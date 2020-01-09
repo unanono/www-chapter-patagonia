@@ -26,7 +26,7 @@ Please change these items to indicate the actual information you wish to present
 ```
 
 {copy for this file (index.md)}
-Replace the text above the commented area with your information in the format below:
+Replace the text above the commented area with your information in the format below: Test
 ```
 ## Welcome
 Include some information here about your chapter
@@ -49,6 +49,6 @@ This separate file is where you should place links to your Google Group and Meet
 
 {leaders.md}
 
-Another separate file that should simply include each leaders name with mailto link as a list. It will also be automatically rendered in the column sidebar.
+Another separate file that should simply include each leaders name with mailto link as a list. It will also be automatically rendered in the column sidebar..
 
 -->
